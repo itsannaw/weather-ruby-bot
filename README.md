@@ -1,24 +1,6 @@
-# README
+# Some information
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This telegram bot was created for educational purposes. :) <br>
+It will help you to find out the exact weather in any city at the moment!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![image](https://github.com/itsannaw/weather-ruby-bot/assets/124448660/63c73739-0dc0-4cfe-a17e-09ae2fc882dd)

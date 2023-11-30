@@ -28,6 +28,10 @@ gem "jbuilder"
 
 gem 'telegram-bot-ruby'
 
+gem 'httparty'
+
+gem 'dotenv-rails', '~> 2.1', '>= 2.1.1'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
